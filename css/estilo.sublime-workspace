@@ -1,0 +1,279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bordem",
+				"border-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"backgo",
+				"background\tproperty"
+			],
+			[
+				"backd",
+				"background-color\tproperty"
+			],
+			[
+				"bord",
+				"border\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"re",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/USER/Desktop/Curso Udemy/PROJETOS/css3 intermediario e avançado/css/estilo.css",
+		"/C/Users/USER/Desktop/Curso Udemy/PROJETOS/css3 intermediario e avançado/seletores.html",
+		"/C/Users/USER/Desktop/Curso Udemy/PROJETOS/TecBlog/index.html",
+		"/C/Users/USER/Desktop/Curso Udemy/PROJETOS/TecBlog/index2.html",
+		"/C/Users/USER/Desktop/Curso Udemy/PROJETOS/TecBlog/css/estilo.css",
+		"/C/Users/USER/Desktop/Curso Udemy/PROJETOS/TecBlog/downloads/css/estilo.css",
+		"/C/Users/USER/Desktop/Curso Udemy/PROJETOS/ProjetoCSS3 Intermediario/links.html",
+		"/C/Users/USER/Desktop/Curso Udemy/ProjetoCSS3 Intermediario/links.html",
+		"/C/Users/USER/Desktop/Curso Udemy/ProjetoCSS3 Intermediario/sobrepondo-elementos.html",
+		"/C/Users/USER/Desktop/Curso Udemy/ProjetoCSS3 Intermediario/posicionamentos.html",
+		"/C/Users/USER/Desktop/Curso Udemy/ProjetoCSS3 Intermediario/elementos-inline-block.html",
+		"/C/Users/USER/Desktop/Curso Udemy/ProjetoCSS3 Intermediario/elementos-flutuantes-pratica.html",
+		"/C/Users/USER/Desktop/Curso Udemy/ProjetoCSS3 Intermediario/elementos-flutuantes.html",
+		"/C/Users/USER/Desktop/Curso Udemy/ProjetoCSS3 Intermediario/estilo.css",
+		"/C/Users/USER/Desktop/Curso Udemy/ProjetoCSS3 Intermediario/modelo-caixa.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/ProjetoAnnaBella/contato.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/ProjetoAnnaBella/campanhas-publicitarias.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/ProjetoAnnaBella/biografia.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/ProjetoAnnaBella/estilo.css",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/ProjetoAnnaBella/index.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/Projeto/contato.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/Projeto/campanhas-publicitarias.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/Projeto/biografia.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/Projeto/index.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/estilos-textos.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/Projeto/estilo.css",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/pagina1.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/pagina2.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/estilo.css",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/cor-imagem-fundo.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/tamanhos-textos.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/fontes-cores.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/div-span.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/classes-ids.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto CSS3/inline_style.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto Final HTML/contato.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto Final HTML/quem-somos.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Primeiro Projeto/index.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Primeiro Projeto/contato.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Primeiro Projeto/projeto.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto Web/index.html",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto Aula/css/estilo-teste.css",
+		"/C/Users/USER/Desktop/Curso Udemy/Projeto Aula/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "estilo.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
